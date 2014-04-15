@@ -1,0 +1,16 @@
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\bin\Release\DesktopApplication.exe.config
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\bin\Release\DesktopApplication.exe
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\bin\Release\DesktopApplication.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\MainWindow.baml
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\MainWindow.g.cs
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\App.g.cs
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication_MarkupCompile.cache
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication.g.resources
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication.Properties.Resources.resources
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication.csproj.GenerateResource.Cache
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication.exe
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\obj\Release\DesktopApplication.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\DesktopApplication\bin\Release\Newtonsoft.Json.xml

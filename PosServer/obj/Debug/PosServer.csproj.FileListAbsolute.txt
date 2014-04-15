@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2012\Projects\PosServer\PosServer\bin\Debug\PosServer.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\PosServer\PosServer\bin\Debug\PosServer.exe
+c:\users\mike\documents\visual studio 2012\Projects\PosServer\PosServer\bin\Debug\PosServer.pdb
+c:\users\mike\documents\visual studio 2012\Projects\PosServer\PosServer\obj\Debug\PosServer.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2012\Projects\PosServer\PosServer\obj\Debug\PosServer.exe
+c:\users\mike\documents\visual studio 2012\Projects\PosServer\PosServer\obj\Debug\PosServer.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\PosServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\PosServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\PosServer\PosServer\bin\Debug\Newtonsoft.Json.xml
